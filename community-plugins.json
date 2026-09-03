@@ -3487,7 +3487,7 @@
   },
   {
     "id": "obsidian-release-timeline",
-    "name": "Release Timeline",
+    "name": "Release Timeline View",
     "author": "cakechaser",
     "description": "Release timeline rendered based on notes metadata with a Dataview-like syntax.",
     "repo": "cakechaser/obsidian-release-timeline"
